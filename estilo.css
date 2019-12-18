@@ -1,0 +1,62 @@
+body{
+	font-family : arial;
+	background-color: #ffccee;
+}
+div.links{
+	background-color:  #ff4dc4;
+	width: 100%;
+	height: 100%;
+	position: relative;
+	margin-bottom: 10px;
+}
+div.links a{
+	
+	border-right: 1px solid #ff99dd;
+	padding-bottom: 3px;
+	text-decoration: none;
+	color:#ffccee; 
+	font-size:150%;
+	margin-right: 2%;
+}
+
+div.topo img{
+	width: 100%;
+	height: 100%;
+	position: relative;
+	
+	padding-right: 15%;
+}
+div.caixa {
+	background-color:#ff99dd;
+	width: 70%;
+	height: 100%;
+	margin-left: 15%;
+	margin-right: 15%;
+	margin-bottom:0 px;  
+	
+}
+div.conteudo details{
+	border-bottom:2px solid #ff4dc4;
+	margin-bottom: 2%;
+}
+div.menu object{
+	width: 100%;
+	height: 460px;
+	scrolling: no
+	frameborder: 0;
+	align: center;
+}
+
+div.conteudo{
+	background-color:#ff99dd;
+	width: 70%;
+	height:100%;
+	margin-left: 15%;
+	margin-right: 15%;
+	margin-top: 0px;
+}
+div.conteudo img{
+	aling: center;
+	margin-left: 25%;
+}
+
